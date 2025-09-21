@@ -1,3 +1,3 @@
 str="hello sid"
 
-print()
+print(str)
