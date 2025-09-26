@@ -1,0 +1,44 @@
+C:\Users\DELL E5450\OneDrive\Desktop\javascricpt\qsimsir>json-server --version
+1.0.0-beta.3
+
+C:\Users\DELL E5450\OneDrive\Desktop\javascricpt\qsimsir>json-server --watch data.json
+--watch/-w can be omitted, JSON Server 1+ watches for file changes by default
+JSON Server started on PORT :3000
+Press CTRL-C to stop
+Watching data.json...
+
+♡⸜(˶˃ ᵕ ˂˶)⸝♡
+
+Index:
+http://localhost:3000/
+
+Static files:
+Serving ./public directory if it exists
+
+Endpoints:
+http://localhost:3000/student
+
+
+
+
+
+
+
+Microsoft Windows [Version 10.0.19045.6332]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\DELL E5450>json-- server version
+'json--' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\DELL E5450>json-server --version
+1.0.0-beta.3
+
+C:\Users\DELL E5450>npm install -g json-server
+
+changed 45 packages in 19s
+
+14 packages are looking for funding
+  run `npm fund` for details
+
+C:\Users\DELL E5450>
