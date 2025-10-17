@@ -1,0 +1,2 @@
+s="seema"
+print(s)
