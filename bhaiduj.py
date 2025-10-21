@@ -1,0 +1,2 @@
+h="bhaiduj"
+print(h)
