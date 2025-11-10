@@ -1,0 +1,10 @@
+l=[1,2,3,4,5,6,6,78,7,9]
+# l.sort()
+# print(l)
+# l.append(12)
+# print(l)
+# l.reverse()
+# l.remove(5)
+# l1=l.count(6)
+# l1=l.insert(8,6)
+print(l1) 
