@@ -175,14 +175,14 @@
 
 # 12. WAP to print below menetion pattern.
 
-# n = int(input("Enter how many rows you want: "))
-# for i in range(1, n + 1):
-#     ch='A'
-#     print(" " * (n - i), end="")
-#     for j in range(1, i +1):
-#         print(ch,end=' ')
-#         ch=chr(ord(ch)+1)
-#     print()
+n = int(input("Enter how many rows you want: "))
+for i in range(1, n + 1):
+    ch='A'
+    print(" " * (n - i), end=" ")
+    for j in range(1, i +1):
+        print(ch,end=' ')
+        ch=chr(ord(ch)+1)
+    print()
     
 #   output  #
 # A
