@@ -1,0 +1,11 @@
+1 cd .\myenv\
+2 cd .\Scripts\
+3 .\activate
+4 cd ../../
+5 cd .\project\
+6 py manage.py runserver
+7 py manage.py
+8 py manage.py createsuperuser
+9 py manage.py migrate
+10 py manage.py createsuperuser
+11 py manage.py runserver
